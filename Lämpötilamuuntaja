@@ -11,8 +11,8 @@ import javax.swing.JButton;
 public class muuntaja extends JFrame {
 	
 	JLabel celsius, fahrenheit;
-    JButton nappi;
-    static JTextField asteet;
+        JButton nappi;
+ 	static JTextField asteet;
  
 public muuntaja() 	{
 	
